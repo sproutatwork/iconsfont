@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?l79bgl');
-  src:  url('fonts/icomoon.eot?l79bgl#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?l79bgl') format('truetype'),
-    url('fonts/icomoon.woff?l79bgl') format('woff'),
-    url('fonts/icomoon.svg?l79bgl#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?lncphj');
+  src:  url('fonts/icomoon.eot?lncphj#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?lncphj') format('truetype'),
+    url('fonts/icomoon.woff?lncphj') format('woff'),
+    url('fonts/icomoon.svg?lncphj#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,41 +24,117 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-home:before {
-  content: "\e906";
+.icon-format_list_bulleted---material:before {
+  content: "\e911";
 }
-.icon-explore:before {
-  content: "\e907";
+.icon-watch---material:before {
+  content: "\e912";
 }
-.icon-notifications:before {
-  content: "\e908";
-  color: #000;
+.icon-Medibank-Logo .path1:before {
+  content: "\e913";
+  color: rgb(19, 42, 75);
 }
-.icon-me:before {
-  content: "\e909";
-  color: #000;
+.icon-Medibank-Logo .path2:before {
+  content: "\e914";
+  margin-left: -5.22265625em;
+  color: rgb(19, 42, 75);
 }
-.icon-breathe:before {
+.icon-Medibank-Logo .path3:before {
+  content: "\e915";
+  margin-left: -5.22265625em;
+  color: rgb(19, 42, 75);
+}
+.icon-Medibank-Logo .path4:before {
+  content: "\e916";
+  margin-left: -5.22265625em;
+  color: rgb(19, 42, 75);
+}
+.icon-Medibank-Logo .path5:before {
+  content: "\e917";
+  margin-left: -5.22265625em;
+  color: rgb(137, 148, 165);
+}
+.icon-Medibank-Logo .path6:before {
+  content: "\e918";
+  margin-left: -5.22265625em;
+  color: rgb(19, 42, 75);
+}
+.icon-Medibank-Logo .path7:before {
+  content: "\e919";
+  margin-left: -5.22265625em;
+  color: rgb(19, 42, 75);
+}
+.icon-Medibank-Logo .path8:before {
+  content: "\e91a";
+  margin-left: -5.22265625em;
+  color: rgb(19, 42, 75);
+}
+.icon-Breathe:before {
   content: "\e900";
   color: #fff;
 }
-.icon-eat:before {
+.icon-Points:before {
   content: "\e901";
-  color: #000;
+  color: #fff;
 }
-.icon-mind:before {
+.icon-Mind:before {
   content: "\e902";
   color: #fff;
 }
-.icon-move:before {
+.icon-Eat:before {
   content: "\e903";
-  color: #fff;
+  color: #000;
 }
-.icon-points:before {
+.icon-Move:before {
   content: "\e904";
   color: #fff;
 }
 .icon-trophy:before {
   content: "\e905";
   color: #fff;
+}
+.icon-notifications-active:before {
+  content: "\e906";
+  color: #dd2c35;
+}
+.icon-explore-active .path1:before {
+  content: "\e907";
+  color: rgb(221, 44, 53);
+  opacity: 0.2;
+}
+.icon-explore-active .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(221, 44, 53);
+}
+.icon-home-active .path1:before {
+  content: "\e909";
+  color: rgb(221, 44, 53);
+  opacity: 0.2;
+}
+.icon-home-active .path2:before {
+  content: "\e90a";
+  margin-left: -0.900390625em;
+  color: rgb(221, 44, 53);
+}
+.icon-home:before {
+  content: "\e90b";
+}
+.icon-explore:before {
+  content: "\e90c";
+}
+.icon-notifications:before {
+  content: "\e90d";
+  color: #000;
+}
+.icon-me-active:before {
+  content: "\e90e";
+  color: #dd2c35;
+}
+.icon-me:before {
+  content: "\e90f";
+  color: #000;
+}
+.icon-smiley-face:before {
+  content: "\e910";
 }
