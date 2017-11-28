@@ -1,12 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>notifications</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Overrides/Tab-Bar/Icons/Unselected/4" transform="translate(-21.000000, -7.000000)" stroke="#000000" stroke-width="1.53846154" fill-rule="nonzero">
-            <path d="M33.2867043,26.0959897 L34.3634344,22.2047952 L39.3076923,22.2047952 C39.7267741,22.2047952 40.0769231,21.8500988 40.0769231,21.4155844 L40.0769231,8.68831169 C40.0769231,8.2537973 39.7267741,7.8991009 39.3076923,7.8991009 L22.6410256,7.8991009 C22.2219439,7.8991009 21.8717949,8.2537973 21.8717949,8.68831169 L21.8717949,21.4155844 C21.8717949,21.8500988 22.2219439,22.2047952 22.6410256,22.2047952 L29.5589199,22.2047952 L33.2475617,26.0520539 L33.2795279,26.0875369 C33.2821063,26.0905841 33.284495,26.0933957 33.2867043,26.0959897 Z M33.2831737,26.1507007 C33.2772921,26.1594402 33.2701393,26.1713143 33.2614067,26.1874127 C33.2605973,26.1889048 33.2597743,26.1904333 33.2589375,26.191999 C33.259829,26.1901928 33.2607324,26.1883761 33.261644,26.1865552 C33.2818527,26.1461889 33.3061032,26.103714 33.2941939,26.1270639 C33.2903864,26.1347776 33.2867091,26.1426593 33.2831737,26.1507007 C33.2717545,26.176674 33.2618154,26.204315 33.253753,26.2333539 L33.2586285,26.1974529 L33.2867043,26.0959897 C33.3119422,26.125622 33.3137774,26.1268731 33.3076923,26.1268731 C33.3039305,26.1268731 33.2971323,26.1299594 33.2831737,26.1507007 Z" id="notifications"></path>
-        </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20px"
+   height="20px"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg3406"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="notifications.svg">
+  <metadata
+     id="metadata3419">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1549"
+     inkscape:window-height="932"
+     id="namedview3417"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="9.9345777"
+     inkscape:cy="12.135186"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Symbols" />
+  <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3408">notifications</title>
+  <desc
+     id="desc3410">Created with Sketch.</desc>
+  <defs
+     id="defs3412" />
+  <g
+     id="Symbols"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="Overrides/Tab-Bar/Icons/Unselected/4"
+       transform="translate(-21.000000, -7.000000)"
+       stroke-width="1.53846154"
+       stroke="#000000"
+       fill-rule="nonzero">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.53846157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 22.640625,7.1289062 c -0.853115,10e-8 -1.537109,0.7108282 -1.537109,1.5585938 l 0,12.728516 c 0,0.847765 0.683994,1.558593 1.537109,1.558593 l 6.589844,0 3.238281,3.376953 c -6.72e-4,0.0177 -0.0078,0.03284 -0.0078,0.05078 l 0.06055,0.0039 0.16211,0.169922 0.01172,0.01367 c 0.01106,0.01513 0.03194,0.04274 -0.01367,-0.02148 -0.01507,-0.02122 -0.07838,-0.141219 -0.07813,-0.140625 9e-6,2.2e-5 -0.0034,-0.01359 -0.0039,-0.01563 l 0.712891,0.04687 -0.609375,0.136719 0.9375,1.105469 0.330078,-1.19336 c 7.7e-4,-0.0011 0.0012,-0.0029 0.002,-0.0039 l 0.01953,0.002 0.0059,-0.03516 0,-0.002 c 3.6e-5,-7.3e-5 0.07421,-0.234286 0.07422,-0.234375 6e-6,-4.8e-5 0.0011,-0.05224 0.002,-0.103516 l 0.875,-3.15625 4.359375,0 c 0.853115,0 1.537109,-0.710828 1.537109,-1.558593 l 0,-12.728516 c 0,-0.8477656 -0.683994,-1.5585937 -1.537109,-1.5585938 l -16.667969,0 z m 0,1.5390626 16.667969,0 c -0.01495,0 0,-0.00173 0,0.019531 l 0,12.728516 c 0,0.02126 -0.01495,0.01953 0,0.01953 l -5.53125,0 -0.845703,3.058594 -0.02539,0.08984 -3.019531,-3.148437 -7.246094,0 c 0.01495,0 0,0.0017 0,-0.01953 l 0,-12.728516 c 0,-0.021263 0.01495,-0.019531 0,-0.019531 z m 10.839844,17.6992192 0.103515,0.0078 0.0332,0.01758 -0.101563,0.02148 c -0.01741,-0.02348 -0.01841,-0.0243 -0.03516,-0.04687 z m 0.08008,0.109374 0.253906,0.01758 0.117188,0.06055 c -0.0018,0.0026 0.0019,-8.77e-4 0,0.002 -0.0086,0.01247 -0.06452,0.08015 -0.06445,0.08008 0,0 -0.01758,0.01758 -0.01758,0.01758 0,0 -0.01367,0.01563 -0.01367,0.01563 0,0 -0.08008,0.06836 -0.08008,0.06836 0,0 -0.10026,-0.133538 -0.195312,-0.261719 z m 0.375,0.08008 c -3.44e-4,7.1e-4 -0.0018,0.0058 -0.01367,0.02344 -0.0022,0.0033 -0.01484,0.01541 -0.01758,0.01953 0.01451,-0.01996 0.01603,-0.02202 0.03125,-0.04297 z m -0.126953,0.15039 c -0.0046,0.0041 -0.0028,0.0035 -0.0078,0.0078 -0.0053,0.0045 -0.01758,0.01085 -0.02344,0.01563 0.01551,-0.01157 0.01945,-0.01463 0.03125,-0.02344 z m -0.167969,0.107422 c -0.01071,0.0054 -0.01368,0.01044 -0.02539,0.01563 -0.04289,0.019 -0.145104,0.04895 -0.144531,0.04883 3.5e-5,-7e-6 -0.0087,0.0018 -0.0098,0.002 0.01145,-0.0041 0.12544,-0.04678 0.179687,-0.06641 z"
+         id="notifications"
+         inkscape:connector-curvature="0" />
     </g>
+  </g>
 </svg>
